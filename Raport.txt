@@ -1,0 +1,9 @@
+    Nie mam pojęcia w jaki sposób miałem dokumentować te wszystkie kroki na tym githubie. 
+Czy da się tam zostawiać jakieś komentarze? A może chodziło po prostu o komentarze w kodzie?
+Nie jestem też pewien czy ten raport ma być w takiej formie? Zwykłego pliku txt, wrzuconego do repozytorium?
+    Tak czy inaczej, jedynym wyzwaniem jakie napotkałem to było używanie tego GitHuba, 
+bo nigdy wcześniej nie korzystałem z niego do publikowania własnych kodów. 
+Zwykle tylko ściągałem jakieś programy na linuxa albo pobierałem mod launchery do Skyrim'a.
+    
+A co do kodu kalkulatora to nie było żadnych problemów.
+Pozdrawiam, Krystian B)
